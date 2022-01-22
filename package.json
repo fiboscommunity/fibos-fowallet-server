@@ -1,0 +1,22 @@
+{
+  "name": "tracker-node",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "",
+  "keywords": "",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "worker": "export DBconnString='mysql://${username}:${password}@127.0.0.1/fibos_chain' && fibos ./modules/wallets/worker/index.js",
+    "server": "export DBconnString='mysql://${username}:${password}@127.0.0.1/fibos_chain' && fibos server.js",
+    "node": "export DBconnString='mysql://${username}:${password}@127.0.0.1/fibos_chain' && fibos index.js"
+  },
+  "dependencies": {
+    "bignumber.js": "^6.0.0",
+    "fibos-accounts": "^1.0.1",
+    "fibos-tokens": "^1.0.1",
+    "fibos-tracker": "^1.4.1",
+    "fibos.js": "^0.3.11",
+    "@fxjs/orm": "1.11.5"
+  }
+}

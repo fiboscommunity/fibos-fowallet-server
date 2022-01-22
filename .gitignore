@@ -1,0 +1,9 @@
+/temp
+/node_modules
+/package-lock.json
+.vscode
+
+*.db*
+
+/data
+/logs

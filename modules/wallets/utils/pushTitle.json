@@ -1,0 +1,190 @@
+{
+    "en": {
+        "transferReceive": {
+            "title": "Payment notice",
+            "description": "On-chain transfer receive notification"
+        },
+        "transferPay": {
+            "title": "Payment notice",
+            "description": "On-chain transfer payment notification"
+        },
+        "exlocktransReceive": {
+            "title": "Payment notice",
+            "description": "On-chain transfer receive notification"
+        },
+        "exlocktransPay": {
+            "title": "Payment notice",
+            "description": "On-chain transfer payment notification"
+        },
+        "acrossChainReceive": {
+            "title": "Payment notice",
+            "description": "Cross-chain transfer receive notification"
+        },
+        "acrossChainPay": {
+            "title": "Payment notice",
+            "description": "Cross-chain transfer payment notification"
+        },
+        "exchangeReceive": {
+            "title": "Payment notice",
+            "description": "Exchange receive notification"
+        },
+        "exchangePay": {
+            "title": "Payment notice",
+            "description": "Exchange payment notification"
+        },
+        "claimbonus": {
+            "title": "Payment notice",
+            "description": "Vote bonus pay are received notification"
+        },
+        "undelegatebw": {
+            "title": "Payment notice",
+            "description": "Resource redemption are received notification"
+        },
+        "delegatebw": {
+            "title": "Payment notice",
+            "description": "Resource mortgage payment notification"
+        },
+        "undelegatebwforOther": {
+            "title": "Payment notice",
+            "description": "Resource redemption are received notification"
+        },
+        "delegatebwforOther": {
+            "title": "Payment notice",
+            "description": "Resource mortgage payment notification"
+        },
+        "insteadDelegatebw": {
+            "title": "Resource management",
+            "description": " mortgaged a resource for you"
+        },
+        "insteadUndelegatebw": {
+            "title": "Resource management",
+            "description": " redeemed a resource that was mortgaged on your behalf"
+        },
+        "buyram": {
+            "title": "Payment notice",
+            "description": "Purchase RAM payment notification"
+        },
+        "buyramforOther": {
+            "title": "Payment notice",
+            "description": "Purchase RAM payment notification"
+        },
+        "buyrambytes": {
+            "title": "Payment notice",
+            "description": "Purchase RAM payment notification"
+        },
+        "buyrambytesforOther": {
+            "title": "Payment notice",
+            "description": "Purchase RAM payment notification"
+        },
+        "sellram": {
+            "title": "Payment notice",
+            "description": "Selling RAM payment notification"
+        },
+        "insteadBuyram": {
+            "title": "Resource management",
+            "description": " purchased a RAM for you"
+        },
+        "insteadBuyrambytes": {
+            "title": "Resource management",
+            "description": " purchased a RAM for you"
+        },
+        "LockWarehouse": {
+            "title": "Lock-in Period Over",
+            "description": "You have a lock-in FO can be withdraw today"
+        }
+    },
+    "zh": {
+        "transferReceive": {
+            "title": "动账通知",
+            "description": "链上转账收款通知"
+        },
+        "transferPay": {
+            "title": "动账通知",
+            "description": "链上转账付款通知"
+        },
+        "exlocktransReceive": {
+            "title": "动账通知",
+            "description": "链上转账收款通知"
+        },
+        "exlocktransPay": {
+            "title": "动账通知",
+            "description": "链上转账付款通知"
+        },
+        "acrossChainReceive": {
+            "title": "动账通知",
+            "description": "跨链转入收款通知"
+        },
+        "acrossChainPay": {
+            "title": "动账通知",
+            "description": "跨链转出付款通知"
+        },
+        "exchangeReceive": {
+            "title": "动账通知",
+            "description": "兑入收款通知"
+        },
+        "exchangePay": {
+            "title": "动账通知",
+            "description": "兑出付款通知"
+        },
+        "claimbonus": {
+            "title": "动账通知",
+            "description": "投票收益到账通知"
+        },
+        "undelegatebw": {
+            "title": "动账通知",
+            "description": "资源赎回到账通知"
+        },
+        "delegatebw": {
+            "title": "动账通知",
+            "description": "资源抵押付款通知"
+        },
+        "undelegatebwforOther": {
+            "title": "动账通知",
+            "description": "资源赎回到账通知"
+        },
+        "delegatebwforOther": {
+            "title": "动账通知",
+            "description": "资源抵押付款通知"
+        },
+        "insteadDelegatebw": {
+            "title": "资源管理",
+            "description": " 代你抵押了一笔资源"
+        },
+        "insteadUndelegatebw": {
+            "title": "资源管理",
+            "description": " 赎回了一笔代你抵押的资源"
+        },
+        "buyram": {
+            "title": "动账通知",
+            "description": "购买内存付款通知"
+        },
+        "buyramforOther": {
+            "title": "动账通知",
+            "description": "购买内存付款通知"
+        },
+        "buyrambytes": {
+            "title": "动账通知",
+            "description": "购买内存付款通知"
+        },
+        "buyrambytesforOther": {
+            "title": "动账通知",
+            "description": "购买内存付款通知"
+        },
+        "sellram": {
+            "title": "动账通知",
+            "description": "出售内存收款通知"
+        },
+        "insteadBuyram": {
+            "title": "资源管理",
+            "description": " 代你购买了一笔内存"
+        },
+        "insteadBuyrambytes": {
+            "title": "资源管理",
+            "description": " 代你购买了一笔内存"
+        },
+        "LockWarehouse": {
+            "title": "锁仓到期提醒",
+            "description": "您有一笔锁仓 FO 今日可解锁"
+        }
+    }
+}
